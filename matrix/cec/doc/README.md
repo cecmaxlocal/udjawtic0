@@ -1,4 +1,4 @@
-![IDebug](./matrix/cec/images/logon.png)
+![IDebug](../images/logon.png)
 
 README.md for Project: udjawtic0
 
